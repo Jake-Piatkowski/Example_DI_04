@@ -1,4 +1,4 @@
-package com.jbpi.exampledi03.providers
+package com.jbpi.exampledi04.providers
 
 import retrofit2.Retrofit
 

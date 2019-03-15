@@ -1,6 +1,6 @@
-package com.jbpi.exampledi03
+package com.jbpi.exampledi04
 
-import com.jbpi.exampledi03.providers.*
+import com.jbpi.exampledi04.providers.*
 import io.reactivex.functions.Consumer
 
 fun main() {

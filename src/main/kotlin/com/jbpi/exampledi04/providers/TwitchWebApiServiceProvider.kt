@@ -1,6 +1,6 @@
-package com.jbpi.exampledi03.providers
+package com.jbpi.exampledi04.providers
 
-import com.jbpi.exampledi03.TwitchWebApiService
+import com.jbpi.exampledi04.TwitchWebApiService
 import retrofit2.Retrofit
 
 class TwitchWebApiServiceProvider(private val retrofit: Retrofit) {

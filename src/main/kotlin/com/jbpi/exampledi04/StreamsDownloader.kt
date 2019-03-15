@@ -1,6 +1,6 @@
-package com.jbpi.exampledi03
+package com.jbpi.exampledi04
 
-import com.jbpi.exampledi03.data.ApiResponseStreams
+import com.jbpi.exampledi04.data.ApiResponseStreams
 import io.reactivex.functions.Consumer
 
 internal class StreamsDownloader(private val twitchWebApiService: TwitchWebApiService) {

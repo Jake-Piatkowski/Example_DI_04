@@ -1,4 +1,4 @@
-package com.jbpi.exampledi03.data
+package com.jbpi.exampledi04.data
 
 data class ApiStream(val id: String,
                      val title: String,
